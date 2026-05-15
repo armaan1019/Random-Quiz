@@ -1,0 +1,57 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "What planet is known as the Red Planet?",
+    "options": ["Earth", "Mars", "Venus", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "type": "input",
+    "question": "What gas do humans breathe in to survive?",
+    "answer": "oxygen"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What is H2O commonly known as?",
+    "options": ["Salt", "Hydrogen", "Water", "Oxygen"],
+    "answer": "Water"
+  },
+  {
+    "type": "input",
+    "question": "What force keeps us on the ground?",
+    "answer": "gravity"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What part of the plant absorbs water?",
+    "options": ["Leaf", "Stem", "Root", "Flower"],
+    "answer": "Root"
+  },
+  {
+    "type": "input",
+    "question": "What star is at the center of our solar system?",
+    "answer": "sun"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which organ pumps blood through the body?",
+    "options": ["Brain", "Lungs", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "type": "input",
+    "question": "What is the process plants use to make food?",
+    "answer": "photosynthesis"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What gas do plants release into the air?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Helium", "Oxygen"],
+    "answer": "Oxygen"
+  },
+  {
+    "type": "input",
+    "question": "How many planets are in our solar system?",
+    "answer": "8"
+  }
+]

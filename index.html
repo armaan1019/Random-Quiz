@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Quiz</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <h1>The Daily Quiz App</h1>
+      <h2 id="date">Date:</h2>
+      <hr>
+      <h2 id="topic">Today's Topic:</h2>
+      <div id="start" class="start">
+        <p id="startP">Click here if you dare:</p>
+        <button id="startBtn">Start Quiz</button>
+      </div>
+      <div id="image" class="image">
+        <img src="images/quiz.jpg" alt="Logo quiz image">
+      </div>
+      <div id="score">
+        <div id="correct" class="showScore">
+          <p class="scoreL">Correct:</p>
+          <p id="correctNum" class="scoreN">0</p>
+        </div>
+        <div id="incorrect" class="showScore">
+          <p class="scoreL">Incorrect:</p>
+          <p id="incorrectNum" class="scoreN">0</p>
+        </div>
+      </div>
+      <div id="quiz"></div>
+      <div id="control" class="control">
+        <button id="next" class="next">Next</button>
+        <button id="quit" class="quit">Quit</button>
+      </div>
+    </main>
+    <footer>
+      <p>
+        Built by Armaan. This is a single-page app where 
+        questions and scores are dynamically
+        updated as the user takes the quiz.
+      </p>
+
+      <p>
+        Contact: <a href="mailto:armaan192004@gmail.com">armaan192004@gmail.com</a>
+      </p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,82 @@
+[
+  {
+    "type": "multiple-choice",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "type": "input",
+    "question": "In which country were the pyramids built?",
+    "answer": "egypt"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which war was fought between the North and South regions of the United States?",
+    "options": [
+      "World War I",
+      "The Civil War",
+      "The Revolutionary War",
+      "The Cold War"
+    ],
+    "answer": "The Civil War"
+  },
+  {
+    "type": "input",
+    "question": "Who discovered America in 1492?",
+    "answer": "christopher columbus"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "What wall fell in 1989, symbolizing the end of the Cold War?",
+    "options": [
+      "Great Wall of China",
+      "Berlin Wall",
+      "Hadrian's Wall",
+      "Wall of Troy"
+    ],
+    "answer": "Berlin Wall"
+  },
+  {
+    "type": "input",
+    "question": "Which ancient civilization built the Colosseum?",
+    "answer": "romans"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Who was known as the Maid of Orleans?",
+    "options": [
+      "Marie Curie",
+      "Joan of Arc",
+      "Queen Elizabeth I",
+      "Cleopatra"
+    ],
+    "answer": "Joan of Arc"
+  },
+  {
+    "type": "input",
+    "question": "What ship sank in 1912 after hitting an iceberg?",
+    "answer": "titanic"
+  },
+  {
+    "type": "multiple-choice",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Greek Empire",
+      "Roman Empire",
+      "Ottoman Empire",
+      "British Empire"
+    ],
+    "answer": "Roman Empire"
+  },
+  {
+    "type": "input",
+    "question": "What document begins with 'We the People'?",
+    "answer": "constitution"
+  }
+]
